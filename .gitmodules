@@ -1,0 +1,6 @@
+[submodule "eksamens_backend"]
+	path = eksamens_backend
+	url = https://github.com/rendijsb/eksamens_backend.git
+[submodule "eksamens_frontend"]
+	path = eksamens_frontend
+	url = https://github.com/rendijsb/eksamens_frontend.git
