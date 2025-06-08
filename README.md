@@ -19,7 +19,7 @@ docker-compose up -d
 
 Ieiet backend konteinerā:
 ```bash
-docker exec -it eksamens_api_1 bash
+docker exec -it eksamens-api-1 bash
 ```
 
 Instalēt dependences:
@@ -51,7 +51,7 @@ php artisan db:seed
 
 Ieiet frontend konteinerā:
 ```bash
-docker exec -it eksamens_frontend_1 bash
+docker exec -it eksamens-frontend-1 bash
 ```
 
 Instalēt dependences:
